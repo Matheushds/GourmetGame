@@ -1,0 +1,6 @@
+starter\main.class
+starter\SetUpGame.class
+domain\Alimento.class
+domain\No.class
+domain\ArvoreDeDecisao.class
+domain\GeradorDeNos.class
